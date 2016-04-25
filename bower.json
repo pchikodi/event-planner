@@ -1,0 +1,21 @@
+{
+  "name": "event-planner",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Pranav Chikodi <chikodipranav@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
